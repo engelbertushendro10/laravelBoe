@@ -12,6 +12,7 @@
 <body>
 
 @include('layout.navbar')
+
 <h1>halaman about</h1>
 <p>Nama Lengkap : {{$nama}}</p>
 <br>
