@@ -1,5 +1,9 @@
 @extends('layout.main')
 
+
+@section('title', 'Project Index')
+
+
 @section('content')
 
 
